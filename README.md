@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Heitor 👋
 
-<!--
-**Heitor-Xavier/Heitor-Xavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição de carreira para Desenvolvimento Backend.
 
-Here are some ideas to get you started:
+Atualmente atuo com:
+- SQL
+- Python
+- Power BI
+- Automação de processos
+- Análise de dados operacionais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudando:
+- Golang
+- APIs REST
+- Docker
+- Cloud Computing
+- DataBricks
+
+## Tecnologias
+- Python
+- SQL
+- Golang
+- Git/GitHub
+- Power BI
+
+## Projetos
+- API de controle de estoque
+- Automação de relatórios
+- Dashboard operacional
+
